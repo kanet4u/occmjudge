@@ -1,0 +1,26 @@
+//Pending
+#define OCCM_WT0 0 
+//Pending for recompile
+#define OCCM_WT1 1
+//Compiling
+#define OCCM_CI 2
+//Running and Testing
+#define OCCM_RI 3
+//Accepted
+#define OCCM_AC 4
+//Presentation error
+#define OCCM_PE 5
+//Wrong answer
+#define OCCM_WA 6
+//Time Limit Exceeded
+#define OCCM_TL 7
+//Memory Limit Exceeded
+#define OCCM_ML 8
+//Output Limit Exceeded
+#define OCCM_OL 9
+//Runtime Error
+#define OCCM_RE 10
+//Compile Error
+#define OCCM_CE 11
+#define OCCM_CO 12
+#define OCCM_TR 13
